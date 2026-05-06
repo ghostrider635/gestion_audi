@@ -1,0 +1,30 @@
+[
+    {
+        "id": "U001",
+        "nom": "Administrateur SGA",
+        "role": "admin",
+        "login": "admin",
+        "password_hash": "$2y$10$aSBgVFNlYvrBLA0nUZHv0OwflFI2mXMQC2nitV7mywa5mIyyS6Yx2"
+    },
+    {
+        "id": "U002",
+        "nom": "Apparitorat FSI",
+        "role": "apparitorat",
+        "login": "apparitorat",
+        "password_hash": "$2y$10$bkh4ctDpcfVPrgcLy/0MlOtGe3BqZ9XK1HWZftAILCmjCOh9quEb."
+    },
+    {
+        "id": "U003",
+        "nom": "Enseignant Demo",
+        "role": "enseignant",
+        "login": "enseignant",
+        "password_hash": "$2y$10$bdmHntWDpQmBwOUJTT1EHuLx6UtkILvGikzzN/020nXpyjTGaV08G"
+    },
+    {
+        "id": "U004",
+        "nom": "Visiteur Lecture",
+        "role": "visiteur",
+        "login": "visiteur",
+        "password_hash": "$2y$10$sZch2VkVBcN.gE1BYuWV2.BptX5GMSD4a4PHSLAAAYP0NQS5ApVWK"
+    }
+]

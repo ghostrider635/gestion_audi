@@ -1,0 +1,194 @@
+[
+    {
+        "id": "CIR-LOG",
+        "intitule": "Circuits Logiques",
+        "volume_horaire": 4,
+        "type": "tronc_commun",
+        "promotion": "L1",
+        "option": null
+    },
+    {
+        "id": "ALGO-L1",
+        "intitule": "Algorithmique",
+        "volume_horaire": 4,
+        "type": "tronc_commun",
+        "promotion": "L1",
+        "option": null
+    },
+    {
+        "id": "MATH-L1",
+        "intitule": "Mathématiques Discrètes",
+        "volume_horaire": 4,
+        "type": "tronc_commun",
+        "promotion": "L1",
+        "option": null
+    },
+    {
+        "id": "PROG-L1",
+        "intitule": "Programmation C",
+        "volume_horaire": 4,
+        "type": "tronc_commun",
+        "promotion": "L1",
+        "option": null
+    },
+    {
+        "id": "FREE-L1",
+        "intitule": "Freedom",
+        "volume_horaire": 4,
+        "type": "tronc_commun",
+        "promotion": "L1",
+        "option": null
+    },
+    {
+        "id": "RES-L2",
+        "intitule": "Réseaux Informatiques",
+        "volume_horaire": 4,
+        "type": "tronc_commun",
+        "promotion": "L2",
+        "option": null
+    },
+    {
+        "id": "SYS-L2",
+        "intitule": "Systèmes d'Exploitation",
+        "volume_horaire": 4,
+        "type": "tronc_commun",
+        "promotion": "L2",
+        "option": null
+    },
+    {
+        "id": "BDD-L2",
+        "intitule": "Bases de Données",
+        "volume_horaire": 4,
+        "type": "tronc_commun",
+        "promotion": "L2",
+        "option": null
+    },
+    {
+        "id": "WEB-L2",
+        "intitule": "Programmation Web",
+        "volume_horaire": 4,
+        "type": "tronc_commun",
+        "promotion": "L2",
+        "option": null
+    },
+    {
+        "id": "FREE-L2",
+        "intitule": "Freedom",
+        "volume_horaire": 4,
+        "type": "tronc_commun",
+        "promotion": "L2",
+        "option": null
+    },
+    {
+        "id": "GL-L3",
+        "intitule": "Génie Logiciel",
+        "volume_horaire": 4,
+        "type": "tronc_commun",
+        "promotion": "L3",
+        "option": null
+    },
+    {
+        "id": "IA-L3",
+        "intitule": "Intelligence Artificielle",
+        "volume_horaire": 4,
+        "type": "tronc_commun",
+        "promotion": "L3",
+        "option": null
+    },
+    {
+        "id": "FREE-L3",
+        "intitule": "Freedom",
+        "volume_horaire": 4,
+        "type": "tronc_commun",
+        "promotion": "L3",
+        "option": null
+    },
+    {
+        "id": "SEC-L3",
+        "intitule": "Sécurité des Systèmes",
+        "volume_horaire": 4,
+        "type": "option",
+        "promotion": "L3",
+        "option": "OPT-SEC"
+    },
+    {
+        "id": "ROB-L3",
+        "intitule": "Introduction à la Robotique",
+        "volume_horaire": 4,
+        "type": "option",
+        "promotion": "L3",
+        "option": "OPT-ROB"
+    },
+    {
+        "id": "DATA-L3",
+        "intitule": "Data Sciences Fondamentaux",
+        "volume_horaire": 4,
+        "type": "option",
+        "promotion": "L3",
+        "option": "OPT-DATA"
+    },
+    {
+        "id": "IL-L3",
+        "intitule": "Ingénierie Logicielle Avancée",
+        "volume_horaire": 4,
+        "type": "option",
+        "promotion": "L3",
+        "option": "OPT-IL"
+    },
+    {
+        "id": "ARCH-L4",
+        "intitule": "Architecture des Systèmes",
+        "volume_horaire": 4,
+        "type": "tronc_commun",
+        "promotion": "L4",
+        "option": null
+    },
+    {
+        "id": "MGT-L4",
+        "intitule": "Management des Projets IT",
+        "volume_horaire": 4,
+        "type": "tronc_commun",
+        "promotion": "L4",
+        "option": null
+    },
+    {
+        "id": "FREE-L4",
+        "intitule": "Freedom",
+        "volume_horaire": 4,
+        "type": "tronc_commun",
+        "promotion": "L4",
+        "option": null
+    },
+    {
+        "id": "EMB-L4",
+        "intitule": "Systèmes Embarqués",
+        "volume_horaire": 4,
+        "type": "option",
+        "promotion": "L4",
+        "option": "OPT-EMB"
+    },
+    {
+        "id": "DSML-L4",
+        "intitule": "Machine Learning",
+        "volume_horaire": 4,
+        "type": "option",
+        "promotion": "L4",
+        "option": "OPT-DATA"
+    },
+    {
+        "id": "SECU-L4",
+        "intitule": "Cryptographie & Sécurité Avancée",
+        "volume_horaire": 4,
+        "type": "option",
+        "promotion": "L4",
+        "option": "OPT-SEC"
+    },
+    {
+        "id": "ILA-L4",
+        "intitule": "Conception & Architecture Logicielle",
+        "volume_horaire": 4,
+        "type": "option",
+        "promotion": "L4",
+        "option": "OPT-IL"
+    }
+]

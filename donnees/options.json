@@ -1,0 +1,32 @@
+[
+    {
+        "id": "OPT-SEC",
+        "libelle": "Securite Informatique",
+        "promotion_parent": "L3",
+        "effectif": 28
+    },
+    {
+        "id": "OPT-ROB",
+        "libelle": "Robotique",
+        "promotion_parent": "L3",
+        "effectif": 22
+    },
+    {
+        "id": "OPT-DATA",
+        "libelle": "Data Sciences",
+        "promotion_parent": "L4",
+        "effectif": 26
+    },
+    {
+        "id": "OPT-IL",
+        "libelle": "Ingenierie Logicielle",
+        "promotion_parent": "L4",
+        "effectif": 24
+    },
+    {
+        "id": "OPT-EMB",
+        "libelle": "Systemes Embarques",
+        "promotion_parent": "L4",
+        "effectif": 20
+    }
+]

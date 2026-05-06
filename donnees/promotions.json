@@ -1,0 +1,22 @@
+[
+    {
+        "id": "L1",
+        "libelle": "Licence 1",
+        "effectif": 115
+    },
+    {
+        "id": "L2",
+        "libelle": "Licence 2",
+        "effectif": 95
+    },
+    {
+        "id": "L3",
+        "libelle": "Licence 3",
+        "effectif": 75
+    },
+    {
+        "id": "L4",
+        "libelle": "Licence 4",
+        "effectif": 55
+    }
+]
