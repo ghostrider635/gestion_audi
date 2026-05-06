@@ -55,20 +55,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                 <div class="auth-showcase-media">
                     <img src="assets/images/login-hero.jpg" alt="Campus universitaire moderne">
                 </div>
-                <div class="auth-gallery">
-                    <figure>
-                        <img src="assets/images/login-gallery-1.jpg" alt="Etudiants sur le campus">
-                        <figcaption>Vie academique</figcaption>
-                    </figure>
-                    <figure>
-                        <img src="assets/images/login-gallery-2.jpg" alt="Salle de cours numerique">
-                        <figcaption>Salles modernes</figcaption>
-                    </figure>
-                    <figure>
-                        <img src="assets/images/login-gallery-3.jpg" alt="Planning et organisation">
-                        <figcaption>Organisation SGA</figcaption>
-                    </figure>
-                </div>
+                
             </section>
 
             <section class="auth-card">
